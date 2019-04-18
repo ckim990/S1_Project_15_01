@@ -5,8 +5,8 @@
    Tutorial 13
    Case Problem 1
 
-   Author: 
-   Date:   
+   Author: Christopher Kim
+   Date:   4/18/19
    
    Filename: mpl_links.js
 
